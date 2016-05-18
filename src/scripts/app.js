@@ -12,5 +12,5 @@ require('./views/footer.js');
 
 //定义视图模块
 SPA.config({
-  indexView:'index'
+  indexView:'guide'
 });
