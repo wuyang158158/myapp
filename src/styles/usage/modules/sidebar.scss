@@ -1,0 +1,4 @@
+.m-mask {
+  @include fullscreen();
+  background: rgba(0,0,0, 0.5);
+}
